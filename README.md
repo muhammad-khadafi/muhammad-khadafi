@@ -4,7 +4,7 @@
 
 ## :sassy_man:  About me
 - 🔭 I’m currently working on Pusat Ilmu Komputer - Universitas Indonesia 
-- :school: I am a Passionate Software Engineers
+- :school: I am a Passionate Software Engineer
 - :trophy: Master of Information Technology from Universitas Indonesia
 - :computer: My Main Tech Stack is **Java - Spring Boot - MyBatis - Javascript - Node Js - Vue Js - Vuetify**
 - :technologist: 9 Years Experience as a Professional Software Engineer
