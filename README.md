@@ -7,7 +7,7 @@
 - :school: I am a Passionate Software Engineers
 - :trophy: Master of Information Technology from Universitas Indonesia
 - :computer: My Main Tech Stack is **Java - Spring Boot - MyBatis - Javascript - Node Js - Vue Js - Vuetify**
-- :technologist: 9 Years Experience as Professional Software Engineers
+- :technologist: 9 Years Experience as a Professional Software Engineer
 - :technologist: 4-5 Years Experience to Lead Small to Medium Development Team
 - :nerd_face: Always `learning new things`
 <br/>
